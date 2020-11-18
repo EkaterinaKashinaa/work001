@@ -2,4 +2,4 @@
 
 Привет, мой друг!
 
-Bohjour!
+Bohjour, mon ami!
